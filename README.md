@@ -2,6 +2,8 @@
 
 RepoExplorer is a modern web application that lets developers instantly understand any GitHub repository using AI analysis. It breaks down complex codebases into structured insights, file trees, and actionable summaries.
 
+![RepoExplorer Dashboard](./image.png)
+
 ## Features
 
 - **Instant Repository Analysis**: Paste any GitHub URL and get a deep-dive summary in seconds.
